@@ -2,8 +2,6 @@
 
 An add-on board for Odroid H3(+) with extra connectivity
 
-
-
 - Fits into the H3(+) header directly, or with a ribbon cable.
 
 - Has two M3 mounting holes
@@ -18,7 +16,7 @@ An add-on board for Odroid H3(+) with extra connectivity
 
 - Optional resistor R1 for dimming the power button LED
 
-
+The PCB is 4-layer, based on 1.6mm JLC7628 stackup.
 
 More information here:
 
