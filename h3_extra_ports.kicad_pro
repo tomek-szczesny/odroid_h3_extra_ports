@@ -417,7 +417,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "h3_extra_ports.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

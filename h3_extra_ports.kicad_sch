@@ -4578,7 +4578,7 @@
     (uuid a663b413-fda3-44c2-adc3-c85e5335f603)
     (property "Reference" "J5" (id 0) (at 261.62 141.0802 0))
     (property "Value" "RS232" (id 1) (at 261.62 143.6171 0))
-    (property "Footprint" "Connector_IDC:IDC-Header_2x05_P2.54mm_Horizontal" (id 2) (at 260.35 151.13 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Horizontal" (id 2) (at 260.35 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 260.35 151.13 0)
@@ -5284,7 +5284,7 @@
       (reference "J4") (unit 1) (value "Conn_02x02_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Horizontal")
     )
     (path "/a663b413-fda3-44c2-adc3-c85e5335f603"
-      (reference "J5") (unit 1) (value "RS232") (footprint "Connector_IDC:IDC-Header_2x05_P2.54mm_Horizontal")
+      (reference "J5") (unit 1) (value "RS232") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Horizontal")
     )
     (path "/90c20e3e-0344-4811-8b2b-2d42de31f66d"
       (reference "J6") (unit 1) (value "Conn_02x12_Odd_Even") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x12_P2.54mm_Horizontal")
